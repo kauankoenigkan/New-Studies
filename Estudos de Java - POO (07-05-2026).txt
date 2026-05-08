@@ -1,0 +1,13 @@
+Estudos de Java - POO (07/05/2026)
+
+Hoje foquei em melhorar meus conhecimentos em Programação Orientada a Objetos com Java.
+
+Estudei hoje:
+
+Classes e objetos
+Métodos
+Atributos
+Encapsulamento
+
+Pratiquei criando alguns exemplos simples para entender melhor como organizar o código. Ainda preciso praticar mais para pegar melhor a lógica, principalmente na parte de estruturar as classes (vou praticar melhor nessa parte).
+Próximos conteúdos são herança e polimorfismo.
