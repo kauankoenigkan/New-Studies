@@ -1,0 +1,6 @@
+Hoje analisei alguns métodos de segurança para meu sistema de autenticação, para deixar mais seguro a clientes e assim ser um sistema com integridade e segurança.
+
+Vi um pouco sobre:
+- Hash
+- Criptografia 
+(Tudo foi apenas a base conteudista, logo vou aplicar e colocar no repositório do sistema)
